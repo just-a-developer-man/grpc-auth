@@ -5,12 +5,12 @@ import (
 	"log/slog"
 )
 
-//type Handler interface {
-//	Enabled(context.Context, Level) bool
-//	Handle(context.Context, Record) error
-//	WithAttrs(attrs []Attr) Handler
-//	WithGroup(name string) Handler
-//}
+// type Handler interface {
+// 	Enabled(context.Context, Level) bool
+// 	Handle(context.Context, Record) error
+// 	WithAttrs(attrs []Attr) Handler
+// 	WithGroup(name string) Handler
+// }
 
 type StubHandler struct{}
 
