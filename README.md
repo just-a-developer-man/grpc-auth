@@ -1,1 +1,1 @@
-Just a educational project with gRPC.
+Just an educational project with gRPC.
